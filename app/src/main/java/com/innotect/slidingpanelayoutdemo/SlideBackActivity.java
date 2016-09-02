@@ -12,4 +12,5 @@ public class SlideBackActivity extends BaseSwipeBackActivity {
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
     }
+
 }
